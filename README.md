@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Just finished Bs.c in Software Engineering<br>🤝 Looking for Fullstack Entry Role<br>🌱 I’m currently learning Golang Backend Development
-
+🔭 Just finished Bs.c in Software Engineering<br>🌱 I’m currently learning Go and Full-Stack Development<br>👯 I’m looking to collaborate on open source projects<br>🤔 I’m looking for help with a backend project using Golang<br>📫 How to reach me: [dyachkov.mihail@gmail.com](mailto:dyachkov.mihail@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyachkov_mihail) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikhail-diyachkov) 
